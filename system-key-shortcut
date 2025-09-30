@@ -1,0 +1,11 @@
+search "user" for all customized configs
+
+<ctrl+m> -> go to symbol in workspace, used to search definition (ctrl + T)
+<ctrl+u> -> go to symbol in editor <ctrl + shift + o>
+<ctrl+o> -> go backward <ctrl + alt + ->
+<ctrl+i> -> go forward <ctrl + shift + ->
+<ctrl+h> -> show explorer (switch between explorer and main window)
+<ctrl+f> -> view: toggle primary side bar visibility
+<ctrl+j> -> toggle terminal (ctrl + `)
+<ctrl+l> -> toggle chat (open chat in agent mode), and then <ctrl+.> to select different mode
+<ctrl+n> -> codex: open codex (first remove <ctrl+n> for codex new chat)
