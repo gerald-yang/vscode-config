@@ -1,6 +1,6 @@
 search "user" for all customized configs
 
-<ctrl+m> -> go to symbol in workspace, used to search definition (ctrl + T)
+<ctrl+m> -> go to symbol in workspace, used to search definition (ctrl + T), remove <ctrl + M> in vim to avoid conflict
 <ctrl+u> -> go to symbol in editor <ctrl + shift + o>
 <ctrl+o> -> go backward <ctrl + alt + ->
 <ctrl+i> -> go forward <ctrl + shift + ->
