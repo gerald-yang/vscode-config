@@ -1,7 +1,7 @@
-1. Install vscode deb from official website
-2. Install extensions: c/c++, go, python, vim emulation, github copilot, codex
-3. Login to github copilot with github account
-4. Sign in to ChatGPT for codex
-5. File -> Preferences -> Keyboard Shortcuts, refer to system-key-shortcut
-6. Press “ctrl+shift+p” and search “preferences: open user settings (json)”, refer to vim-extension-config
+For cursor, vscode or antigravity
 
+1. Install IDE
+2. Install extensions: c/c++, go, python, vim emulation, opencode, claude code, codex(chatgpt)
+4. Sign in to opencode, claude code and openai
+5. File -> Preferences -> Keyboard Shortcuts, refer to system-key-shortcut
+6. Press <ctrl+shift+p> and search <preferences: open user settings (json)>, refer to vim-extension-config

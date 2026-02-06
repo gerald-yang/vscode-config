@@ -7,5 +7,5 @@ search "user" for all customized configs
 <ctrl+h> -> show explorer (switch between explorer and main window)
 <ctrl+f> -> view: toggle primary side bar visibility
 <ctrl+j> -> toggle terminal (ctrl + `)
-<ctrl+l> -> toggle chat (open chat in agent mode), and then <ctrl+.> to select different mode
-<ctrl+n> -> codex: open codex (first remove <ctrl+n> for codex new chat)
+<alt+v>  -> View: Split Editor Down
+<alt+h>  -> View: Split Editor
