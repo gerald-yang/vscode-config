@@ -9,3 +9,8 @@ search "user" for all customized configs
 <ctrl+j> -> toggle terminal (ctrl + `)
 <alt+v>  -> View: Split Editor Down
 <alt+h>  -> View: Split Editor
+
+
+ctrl + shift + p
+Preferences: Open Keyboard Shortcuts (JSON)
+paste shortcut.json to the file
