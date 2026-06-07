@@ -81,7 +81,7 @@
         "command": "-workbench.action.focusSecondEditorGroup"
     },
     {
-        "key": "ctrl+shift+m",
+        "key": "ctrl+shift+k",
         "command": "workbench.action.focusFirstEditorGroup"
     },
     {
