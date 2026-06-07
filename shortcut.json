@@ -71,5 +71,21 @@
     {
         "key": "ctrl+k ctrl+\\",
         "command": "-workbench.action.splitEditorDown"
+    },
+    {
+        "key": "ctrl+shift+l",
+        "command": "workbench.action.focusSecondEditorGroup"
+    },
+    {
+        "key": "ctrl+2",
+        "command": "-workbench.action.focusSecondEditorGroup"
+    },
+    {
+        "key": "ctrl+shift+m",
+        "command": "workbench.action.focusFirstEditorGroup"
+    },
+    {
+        "key": "ctrl+1",
+        "command": "-workbench.action.focusFirstEditorGroup"
     }
 ]
